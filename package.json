@@ -30,6 +30,7 @@
     "@11ty/eleventy-navigation": "^0.3.3",
     "clean-css": "^5.3.0",
     "html-minifier": "^4.0.0",
+    "liquidjs": "^9.37.0",
     "uglify-es": "^3.3.9"
   }
 }
