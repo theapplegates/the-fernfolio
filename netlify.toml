@@ -2,6 +2,13 @@
   publish = "_site"
   command = "eleventy"
 
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+  
+  [plugins.inputs]
+  cloudName = "paulportfolio"
+  
+  
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
