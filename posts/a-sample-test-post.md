@@ -18,5 +18,5 @@ The shooter arrived in a pickup truck “and the chaos began,” Fitzgerald said
 
 ![A game show contract](/static/img/contract-5.jpg)
 
-
+![Grandma](https://applegate-paul.mo.cloudinary.net/paul/https://storage.googleapis.com/cloudinarymedia/images/Grandma.jpg)
 
