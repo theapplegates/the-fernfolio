@@ -20,4 +20,3 @@ The shooter arrived in a pickup truck “and the chaos began,” Fitzgerald said
 
 
 
-![test](https://applegate-paul.mo.cloudinary.net/paul/static/img/contract-5.jpg)
