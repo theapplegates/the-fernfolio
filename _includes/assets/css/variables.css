@@ -17,6 +17,10 @@
  */
 /*{"last_published":"2022-06-05 14:52:12 UTC"}*/
 
+font-family: sofia-pro, sans-serif;
+font-style: normal;
+font-weight: 100;
+
 --font-family-base: 'gaultier-lights', serif;
 --font-family-heading: var(--font-family-base);
 font-family: sofia-pro, sans-serif;
