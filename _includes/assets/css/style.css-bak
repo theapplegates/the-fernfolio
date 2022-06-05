@@ -17,10 +17,6 @@
  */
 /*{"last_published":"2022-06-05 14:52:12 UTC"}*/
 
---font-family-base: 'gaultier-lights', serif;
---font-family-heading: var(--font-family-base);
-
-
 @import url("https://p.typekit.net/p.css?s=1&k=gmn8lva&ht=tk&f=24547.24548.24550.24551.45281.45282&a=720126&app=typekit&e=css");
 
 @font-face {
